@@ -13,7 +13,7 @@
     "require": {
         "php": "^8.0",
         "ext-dom": "*",
-        "symfony/expression-language": "^4.3|^5.0"
+        "symfony/expression-language": "^5.0"
     },
     "require-dev": {
         "phake/phake": "~2.0",
