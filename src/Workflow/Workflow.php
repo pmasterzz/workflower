@@ -129,6 +129,7 @@ class Workflow implements EntityInterface, IdentifiableInterface, \Serializable
             'startDate' => $this->startDate,
             'endDate' => $this->endDate,
             'stateMachine' => $this->stateMachine,
+            'processData' => $this->processData,
         ));
     }
 
